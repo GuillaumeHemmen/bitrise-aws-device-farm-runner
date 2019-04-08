@@ -3,7 +3,7 @@ Deploys app to device farm and starts a test run with a preconfigured test packa
 
 ## Setup instructions
 :warning: This step requires a fair amount of configuration in order to work properly.
-[Please read the wiki for setup instructions](https://github.com/peartherapeutics/bitrise-aws-device-farm-runner/wiki).
+[Please read the wiki for setup instructions](https://github.com/GuillaumeHemmen/bitrise-aws-device-farm-runner/wiki).
 
 ## How to use this Step
 
